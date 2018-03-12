@@ -31,7 +31,7 @@ public class Index extends HttpServlet {
 		response.sendRedirect("Index.html");
 	}
 
-	/**
+	/**s
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
