@@ -3,6 +3,8 @@
 	<name>JavaEEProject.web</name>
 	<comment></comment>
 	<projects>
+		<project>JavaEEProject.ejb</project>
+		<project>JavaEEProject.ejbClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

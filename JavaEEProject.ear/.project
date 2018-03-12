@@ -6,6 +6,7 @@
 		<project>JavaEEProject.ejb</project>
 		<project>JavaEEProject.ejbClient</project>
 		<project>JavaEEProject.web</project>
+		<project>JavaEEProject2</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
